@@ -1,2 +1,1 @@
-# emaily
-An app from the node with react fullstack web development course from Stephen Grider
+A node with express backend and react frontend. Auth already implemented. 
